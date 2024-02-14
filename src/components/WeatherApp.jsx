@@ -32,7 +32,6 @@ export const WeatherApp = () => {
             setError('Hubo un error al obtener el clima. Por favor, intenta nuevamente.')
         }
     }
-/*clave api google con missabores AIzaSyAF13L9KfBsUs0xkuuezxxDwAR3pq0ZFKg */
     return (
         <div className='contenedor'>
             <h1>Weather App</h1>
